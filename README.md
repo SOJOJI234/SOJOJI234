@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SOJOJI234
+- 👋 Hi, I’m Faisal
+A frontend web developer 
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... front-end development
 - 💞️ I’m looking to collaborate on ... learning new things
