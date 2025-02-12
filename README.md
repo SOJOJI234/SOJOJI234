@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faisal
-A frontend web developer 
+A frontend/backend web developer 
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... front-end development
+- 🌱 I’m currently learning ... front-end development Laravel and filament
 - 💞️ I’m looking to collaborate on ... learning new things
 - 📫 How to reach me ... abubakarfaisalmusa96@gmail.com
 
