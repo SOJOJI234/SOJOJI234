@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faisal
-A frontend/backend web developer 
+A frontend/backend web developer | NLP engineer
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... front-end development Laravel and filament
 - 💞️ I’m looking to collaborate on ... learning new things
